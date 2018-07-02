@@ -1,0 +1,9 @@
+D:\Project\C#\BuildingManager\KeyManager\bin\Debug\KeyManager.exe.config
+D:\Project\C#\BuildingManager\KeyManager\bin\Debug\KeyManager.exe
+D:\Project\C#\BuildingManager\KeyManager\bin\Debug\KeyManager.pdb
+D:\Project\C#\BuildingManager\KeyManager\obj\Debug\KeyManager.frmKeyManager.resources
+D:\Project\C#\BuildingManager\KeyManager\obj\Debug\KeyManager.Properties.Resources.resources
+D:\Project\C#\BuildingManager\KeyManager\obj\Debug\KeyManager.csproj.GenerateResource.Cache
+D:\Project\C#\BuildingManager\KeyManager\obj\Debug\KeyManager.exe
+D:\Project\C#\BuildingManager\KeyManager\obj\Debug\KeyManager.pdb
+D:\Project\C#\BuildingManager\KeyManager\obj\Debug\KeyManager.csprojResolveAssemblyReference.cache

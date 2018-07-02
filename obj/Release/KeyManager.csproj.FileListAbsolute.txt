@@ -1,0 +1,10 @@
+D:\Project\C#\BuildingManager\KeyManager\bin\Release\KeyManager.exe.config
+D:\Project\C#\BuildingManager\KeyManager\bin\Release\KeyManager.exe
+D:\Project\C#\BuildingManager\KeyManager\bin\Release\KeyManager.pdb
+D:\Project\C#\BuildingManager\KeyManager\bin\Release\System.Data.SQLite.dll
+D:\Project\C#\BuildingManager\KeyManager\obj\Release\KeyManager.frmKeyManager.resources
+D:\Project\C#\BuildingManager\KeyManager\obj\Release\KeyManager.Properties.Resources.resources
+D:\Project\C#\BuildingManager\KeyManager\obj\Release\KeyManager.csproj.GenerateResource.Cache
+D:\Project\C#\BuildingManager\KeyManager\obj\Release\KeyManager.exe
+D:\Project\C#\BuildingManager\KeyManager\obj\Release\KeyManager.pdb
+D:\Project\C#\BuildingManager\KeyManager\obj\Release\KeyManager.csprojResolveAssemblyReference.cache

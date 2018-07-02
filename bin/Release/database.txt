@@ -1,0 +1,300 @@
+001	59 Abelia St_Inala	481157451
+005	18 Adonis St_Inala	432161171
+225	6 Allan Terrace_Corinda	no keys
+008	23 Andromeda St_Inala	
+009	23A Andromeda St_Inala	
+004	4 Aquarius St_Inala	
+014	18 Aquarius St_Inala	
+100	636 Archerfield Rd_Inala	no keys
+006	568 Archerfield Rd_Inala	
+234	696 Archerfield Rd_Inala	431543862
+230	236 Archerfield Rd_Richland	no keys, 431684348
+XXX	539 Archerfield Rd_Richland	no keys
+007	18A Aspen St_Inala	
+076	18 Aspen St_Inala	
+153	18B Aspen St_Inala	
+241	39 Azalea St_Inala	
+033	18 Barbery St_Inala	
+166	34 Beccaria St_Doolandella	no keys
+140	94 Biota St_Inala	
+023	4 Bluebird Ave_Ellen Grove	
+182	33 Bluejay St_Inala	no keys, 434150764
+026	711 Blunder Rd_Doolandella	
+038	647 Blunder Rd_Durack	no keys
+036	3 Bootes St_Inala	
+229	24 Bootes St_Inala	
+278	27 Boss Rd_Inala	
+XXX	142 Brisbane Tce_Goodna	no keys, 456976147
+122	188 Brisbane Tce_Goodna	
+018	121 Buddleia St_Inala	
+020	34 Buddleia St_Inala	
+037	30 Burdock St_Inala	
+232	21 Burdock St_Inala	
+057	1 Clematis St_Inala	
+061	15 Clematis St_Inala	
+298	36 Clipper St_Inala	no keys
+297	88 Clipper St_Inala	
+053	16 Collina Cres_Forest Lake	
+042	8 Coomaroo St_Inala	
+049	52 Crocus St_Inala	
+280	45 Crocus St_Inala	
+XXX	10 Cypress St_Yamanto	no keys
+065	21A Dulverton St_Durack	432130078
+066	21B Dulverton St_Durack	451556926
+067	21C Dulverton St_Durack	414109677
+068	6 Echina Cl_Doolandella	410167660
+074	22 Eridanus St_Inala	
+072	26 Eugenia St_Inala	no keys
+071	61 Eugenia St_Richland	
+073	6 Finch St_Inala	
+084	28B Firth St_Inala	
+277	29 Formax St_Inala	
+081	94 Franipani St_Inala	
+242	75 Hampton St_Durack	
+216	32 Harrington St_Darra	no keys, 434271121
+XXX	11 Harvard St_Forest Lake	no keys, 411455759
+104	18 Hook St_Inala	
+108	21 Hydrangea St_Inala	
+101	18 John St_Redcliffe	413788902
+115	580 Johnson Rd_Forestdale	
+251	570 Johnson Rd_Forestdale	
+227	5 Jonquil St_Inala	
+118	55 Kestrel St_Inala	
+119	64 Kokoda St_Darra	
+XXX	1/2 Lapwing St_Inala	no keys
+124	17 Leyburn Cres_Forest Lake	
+131	36A Libra St_Inala	
+132	33 Libra St_Inala	
+133	117 Lorikeet St_Inala	
+136	5 Magpie St_Inala	
+135	19 Monterey_Wacol	409376003
+157	4 Norfolk St_Goodna	410698862
+141	5 Octans St_Inala	414627970
+XXX	62 Pacific Pde_Forest Lake	no keys
+152	33 Pelican St_Inala	no keys, 412926001
+151	34 Pelican St_Inala	478047353
+163	63A Penguin St_Inala	
+164	63B Penguin St_Inala	
+223	2 Petrel St_Inala	
+154	21 Pictor St_Inala	
+145	29 Poinciana St_Inala	
+090	1/250 Redbank Plains Rd_Bellbird Park	411460535
+143	2/250 Redbank Plains Rd_Bellbird Park	411460535
+117	3/250 Redbank Plains Rd_Bellbird Park	411460535
+158	4/250 Redbank Plains Rd_Bellbird Park	411460535
+159	5/250 Redbank Plains Rd_Bellbird Park	411460535
+XXX	55 Richland Ave_Cooperland	no keys, 423417442
+165	79 Rosemary St_Inala	
+166	11 Rudd St_Inala	no keys
+191	22 Saigon Place_Inala	no keys
+193	23B Saigon Place_Inala	413251358
+194	25A Saigon Place_Inala	
+195	25B Saigon Place_Inala	
+196	23A Saigon Place_Inala	
+168	32 Skylark St_Inala	no keys
+275	58 Solandder Cir_Forest Lake	
+197	20 Spoonbill St_Inala	
+198	20B Spoonbill St_Inala	469826248
+086	1/20 Springall St_Basin Pocket	432695095
+105	2/20 Springall St_Basin Pocket	434365632
+156	18 Springall St_Basin Pocket	403937566
+XXX	4/2Lapwing St_Inala	no keys
+058	5 Sunny St_Doolandella	410142779
+233	52 Swallow St_Inala	no keys
+XXX	16 Swallow St_Inala	no keys
+128	173 Swallow St_Inala	no keys
+XXX	82 Swallow St_Inala	no keys
+184	54 Sycamore St_Inala	
+238	8C Ursa St_Inala	no keys
+236	8A Ursa St_Inala	
+237	8B Ursa St_Inala	
+210	12 Veronica St_Inala	
+126	1/4 Vimy St_Bardon	
+147	2/4 Vimy St_Bardon	425261225
+035	3/4 Vimy St_Bardon	400221256
+209	16 Virgo St_Inala	
+213	7 Whipbird Place_Doolandella	
+221	63 Willow St_Inala	no keys, 413025515
+107	71 Woogaroo St_Goodna	412045210
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
